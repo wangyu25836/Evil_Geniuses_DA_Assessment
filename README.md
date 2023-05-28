@@ -1,6 +1,6 @@
 # Evil_Geniuses_DA_Assessment
 
-This project serves as the Evil Geniuses data analyst internship online assessment. It includes the necessary files and information to complete the assessment and evaluate the candidate's skills.
+This project serves as the Evil Geniuses data analyst internship online assessment. This Github Repo includes the files and information to complete the assessment and the candidate's solution approach and answer report.
 
 # Files Included:
 
